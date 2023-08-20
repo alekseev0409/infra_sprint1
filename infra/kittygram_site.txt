@@ -1,0 +1,5 @@
+IP: 158.160.79.51;
+name_taski: https://lehaleha.hopto.org;
+name_kittygram: https://lehakittygram.hopto.org;
+login: yc-user;
+password: 0599864;
